@@ -1,0 +1,22 @@
+h1 {
+	font-size: 30px;
+	font-weight: 500;
+	color: #2dbed2;
+	line-height: 30px;
+}
+th {
+	text-align: center;
+	font-size: 16px;
+	font-weight: 600;
+	color: #0000ff;
+}
+a, a:visited {
+	color: #ff8040;
+	text-decoration: none;
+	font-weight: 800;
+}
+
+img {
+	width: 250px;
+	height: auto;
+}
